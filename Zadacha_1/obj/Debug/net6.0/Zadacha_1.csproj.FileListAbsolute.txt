@@ -1,0 +1,15 @@
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.csproj.AssemblyReference.cache
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.AssemblyInfoInputs.cache
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.AssemblyInfo.cs
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.csproj.CoreCompileInputs.cache
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\bin\Debug\net6.0\Zadacha_1.exe
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\bin\Debug\net6.0\Zadacha_1.deps.json
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\bin\Debug\net6.0\Zadacha_1.runtimeconfig.json
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\bin\Debug\net6.0\Zadacha_1.dll
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\bin\Debug\net6.0\Zadacha_1.pdb
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.dll
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\refint\Zadacha_1.dll
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.pdb
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\Zadacha_1.genruntimeconfig.cache
+E:\Програмирование\2 попытка\4.Знакомство с языками программирования\Семинары\7.Рекурсия\Domashnee zadanie_Seminar007\Zadacha_1\obj\Debug\net6.0\ref\Zadacha_1.dll
